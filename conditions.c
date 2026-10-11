@@ -12,7 +12,7 @@ int main(void) {
     // Условная операция
     int numberExpression = number == 8; // 1
 
-    // Условное выражение if else (как и везде :d)
+    // Условное выражение if else (чем глубже лес тем if else if else)
     if (numberExpression) {
         printf("number = 8\n");
     } else if (number == 5) {
@@ -21,7 +21,7 @@ int main(void) {
         printf("number = ?\n");
     }
 
-    // сиВИЧ касе
+    // сиВИЧ кейсе
     switch (numberExpression) {
         case 1:
             printf("number = 8\n");
