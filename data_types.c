@@ -34,6 +34,8 @@ int main(void) {
     // Константа (неизменяемая переменная)
     const float PI = 3.14;
 
+    // Вы спросите где строки? А в сишечке их нету, смотрите в файлик с массивами там объясняется что строчки это массив из char :3
+
     // Потыкаем выводик
     printf("Number: %d\n", number);
     printf("Char ASCII code: %d\nChar value: %c\n", letter, letter);
