@@ -6,7 +6,7 @@ int main(void) {
     }
 
     int a = 7;
-    while(a != 0) {
+    while (a != 0) {
         a--;
         printf("A: %d\n", a);
     }
