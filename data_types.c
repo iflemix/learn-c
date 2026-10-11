@@ -38,6 +38,21 @@ int main(void) {
     printf("Number: %d\n", number);
     printf("Char ASCII code: %d\nChar value: %c\n", letter, letter);
     printf("Learned: %d\n", isLearned);
-    printf("PI: %f", PI);
+    printf("PI: %f\n", PI);
+
+    // Преобразование одного типа данных в другой
+    int a = 5;
+    double b = 10.5;
+    double c = a + b; // Число a будет автоматически приведено к double
+    printf("Result: %f\n", c);
+
+    // Явное преобразование
+    int x = 4;
+    int y = 2;
+
+    double coord = y / x; // Вернёт 0 т.к x и y являются int
+    double coord_good = (double)y / (double)x; // Явно приводим x и y к double
+    printf("Coord: %f\nCoord_good: %f", coord, coord_good);
+
     return 0;
 }
