@@ -37,6 +37,7 @@ int main(void) {
     // Потыкаем выводик
     printf("Number: %d\n", number);
     printf("Char ASCII code: %d\nChar value: %c\n", letter, letter);
-    printf("Learned: %d", isLearned);
+    printf("Learned: %d\n", isLearned);
+    printf("PI: %f", PI);
     return 0;
 }
