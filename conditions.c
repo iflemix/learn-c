@@ -18,19 +18,19 @@ int main(void) {
     } else if (number == 5) {
         printf("number = 5\n");
     } else {
-        printf("number = ?");
+        printf("number = ?\n");
     }
 
     // switch case
     switch (numberExpression) {
         case 1:
-            printf("number = 8");
+            printf("number = 8\n");
             break;
         case 0:
-            printf("number != 8");
+            printf("number != 8\n");
             break;
         default:
-            printf("wtf number?");
+            printf("wtf number?\n");
             break;
     }
 
@@ -40,6 +40,7 @@ int main(void) {
     условие ? истинный вариант : ложный вариант (вау! вот это да! ого!)
     */
     int numberTernar = number > 8 ? number + 2 : number + 3;
+    printf("Ternar result: %d", numberTernar);
 
     return 0;
 }
