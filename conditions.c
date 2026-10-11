@@ -21,7 +21,7 @@ int main(void) {
         printf("number = ?\n");
     }
 
-    // switch case
+    // сиВИЧ касе
     switch (numberExpression) {
         case 1:
             printf("number = 8\n");
