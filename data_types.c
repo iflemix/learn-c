@@ -58,10 +58,9 @@ int main(void) {
     printf("Coord: %f\nCoord_good: %f\n", coord, coord_good);
 
     // sizeof() возвращает размер который занимает тип данных в байтах
+    // size_t не является самостоятельным типом, является псевдонимом для другого целочисленного типа (например unsigned long в Linux)
     size_t intSize = sizeof(int);
-    printf("sizeof(int): %lu bytes", intSize);
-
-
+    printf("sizeof(int): %zu bytes", intSize);
 
     return 0;
 }
