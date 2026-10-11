@@ -56,7 +56,7 @@ int main(void) {
     double coord_good = (double)y / (double)x; // Явно приводим x и y к double
     printf("Coord: %f\nCoord_good: %f\n", coord, coord_good);
 
-    // sizeof() размер типов данных, возвращает размер который занимает тип в байтах
+    // sizeof() возвращает размер который занимает тип данных в байтах
     int intSize = sizeof(int);
     printf("sizeof(int): %d bytes", intSize);
 
