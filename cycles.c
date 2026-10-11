@@ -19,5 +19,7 @@ int main(void) {
     }
     while (b > 4);
 
+    // В циклах также по базе доступны ключевые слова continue, break
+
     return 0;
 }
