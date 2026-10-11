@@ -1,3 +1,4 @@
+#include <stddef.h>
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -57,8 +58,10 @@ int main(void) {
     printf("Coord: %f\nCoord_good: %f\n", coord, coord_good);
 
     // sizeof() возвращает размер который занимает тип данных в байтах
-    int intSize = sizeof(int);
-    printf("sizeof(int): %d bytes", intSize);
+    size_t intSize = sizeof(int);
+    printf("sizeof(int): %lu bytes", intSize);
+
+
 
     return 0;
 }
