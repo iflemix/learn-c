@@ -24,7 +24,7 @@ int main(void) {
     // switch case
     switch (numberExpression) {
         case 1:
-            printf("number == 8");
+            printf("number = 8");
             break;
         case 0:
             printf("number != 8");
