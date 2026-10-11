@@ -65,7 +65,7 @@ int main(void) {
     // В стандарте C99 добавили спецификатор %zu для унификации работы с size_t
 
     // Вычисление размера выражения (в данном случае printf)
-    // Вернёт 4 потому что результат printf это int
+    // Вернёт 4 потому что printf возвращает int
     size_t exprSize = sizeof printf("halo vandalo blyaaa");
     printf("exprSize: %zu", exprSize);
 
