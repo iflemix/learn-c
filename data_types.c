@@ -31,6 +31,9 @@ int main(void) {
     // <stdbool.h> позволяет нам использовать логический тип bool, о спасибо тебе великий C99
     bool isLearned = true;
 
+    // Константа (неизменяемая переменная)
+    const float PI = 3.14;
+
     // Потыкаем выводик
     printf("Number: %d\n", number);
     printf("Char ASCII code: %d\nChar value: %c\n", letter, letter);
