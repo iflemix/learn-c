@@ -24,4 +24,4 @@ Enjoy!
 * [Selfedu курс по C](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz)
 * [Тимофей Хирьянов](https://www.youtube.com/@tkhirianov/) (Очень приятный дядька хорошо рассказывает у него там и про C и C++ и Python)
 * [Документация Microsoft по C](https://learn.microsoft.com/ru-ru/cpp/c-language/) (Сюда редко заглядываю, скорее попутно когда что-то гуглю)
-* [C Reference](https://cppreference.com/c) (Lightman LP поделился, пока не заглядываю, но референс всегда хорошо)
+* [C Reference](https://cppreference.com/c) (Lightman LP поделился, пока не заглядываю, но референс под рукой всегда хорошо)
