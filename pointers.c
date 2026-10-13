@@ -60,7 +60,7 @@ int main(void) {
     data[1] = &chr;
     data[2] = &pi;
 
-    // Берём адрес num из data, преобразуем void в int и разыменовываем указатель
+    // Берём num из data, преобразуем в int и разыменовываем
     printf("Num: %d", *(int *)data[0]);
 
     return 0;
