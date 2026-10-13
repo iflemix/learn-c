@@ -8,7 +8,7 @@
 * [Условные операции и выражения](https://github.com/iflemix/learn-c/blob/main/conditions.c)
 * [Массивы](https://github.com/iflemix/learn-c/blob/main/arrays.c)
 * [Указатели](https://github.com/iflemix/learn-c/blob/main/pointers.c)
-* [Функции]((https://github.com/iflemix/learn-c/blob/main/functions.c))
+* [Функции](https://github.com/iflemix/learn-c/blob/main/functions.c)
 
 ## Учебные материалы
 В основном всю информацию в голову беру именно с Metanit
