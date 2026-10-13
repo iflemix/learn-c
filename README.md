@@ -11,7 +11,7 @@
 * [Функции](https://github.com/iflemix/learn-c/blob/main/functions.c)
 
 ## Учебные материалы
-В основном всю информацию в голову беру именно с Metanit
+В основном всю информацию в голову беру именно с Metanit  
 Какие-то более сложные темы смотрю у разных авторов на youtube
 * [Metanit](https://metanit.com/c/)
 * [Selfedu курс по C](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz)
