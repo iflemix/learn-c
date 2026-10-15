@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-enum colors {
+enum Colors {
     GREEN,
     BLUE,
     RED
 };
 
 int main() {
-    enum colors selectedColor = RED;
+    enum Colors selectedColor = RED;
     printf("Selected color: %d", selectedColor);
 }
