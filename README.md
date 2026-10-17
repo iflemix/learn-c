@@ -16,6 +16,14 @@ Enjoy!
 * [Массивы](https://github.com/iflemix/learn-c/blob/main/arrays.c)
 * [Указатели](https://github.com/iflemix/learn-c/blob/main/pointers.c)
 * [Функции](https://github.com/iflemix/learn-c/blob/main/functions.c)
+* [Структуры](https://github.com/iflemix/learn-c/blob/main/structures.c)
+* [Перечисления](https://github.com/iflemix/learn-c/blob/main/enums.c)
+
+## Стандартная библиотека
+* [stdio](https://github.com/iflemix/learn-c/blob/main/stdio.c)
+
+## Алгоритмы
+* TODO
 
 ## Учебные материалы
 В основном всю информацию в голову беру именно с Metanit  
