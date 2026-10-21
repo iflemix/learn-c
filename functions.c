@@ -13,6 +13,14 @@ void helloWithArgs(int age, char name[]) {
     printf("Name: %s\nAge:%d\n", name, age);
 }
 
+/*
+    Увидел в одном из чатов мемчик (https://xkcd.com/221/)
+*/
+int getRandomNumber() {
+    return 4; // chosen by fair dice roll
+              // guaranted to be random
+}
+
 
 /*
 Функция main() точка входа в наш код, отсюда он начинает выполняться (ОГО ВОТ ЭТО ДА!) (Подробнее тут интересненько: https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%87%D0%BA%D0%B0_%D0%B2%D1%85%D0%BE%D0%B4%D0%B0)
@@ -25,6 +33,9 @@ int main(void) { // void явно указывает компилятору, ч�
     int age = 30;
     char name[] = "Jesica";
     helloWithArgs(age, name);
+
+    int randomNumber = getRandomNumber();
+    printf("Cool random number: %d", randomNumber);
 
     return 0; // Выход с кодом 0 (программа завершена без ошибок, упал вставай, встал упай, упай чокопай)
 }
