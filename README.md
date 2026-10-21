@@ -19,6 +19,7 @@ Enjoy!
 * [Функции](https://github.com/iflemix/learn-c/blob/main/functions.c)
 * [Структуры](https://github.com/iflemix/learn-c/blob/main/structures.c)
 * [Перечисления](https://github.com/iflemix/learn-c/blob/main/enums.c)
+* [Динамическая память](https://github.com/iflemix/learn-c/blob/main/memory.c)
 
 ## Стандартная библиотека
 * [stdio](https://github.com/iflemix/learn-c/blob/main/stdio.c)
