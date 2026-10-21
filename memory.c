@@ -29,7 +29,7 @@ int main() {
 
     // calloc позволяет выделить память для n элементов размером m байт
     // Главное отличие от malloc - calloc инициализирует и заполняет выделенную память нулями
-    // Выделим память для 5 элементов типа char
+    // Выделим память для 5-ти элементов типа char
     int *callocCharExample = calloc(5, sizeof(char));
     free(callocCharExample);
 
