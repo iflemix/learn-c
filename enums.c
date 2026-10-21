@@ -9,4 +9,5 @@ enum Colors {
 int main() {
     enum Colors selectedColor = RED;
     printf("Selected color: %d", selectedColor);
+    return 0;
 }
