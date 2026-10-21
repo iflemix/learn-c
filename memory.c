@@ -35,7 +35,7 @@ int main() {
 
     // Выделяем память для массива чисел для n элементов
     int n = 5;
-    int arraySize = sizeof(int) * 5;
+    int arraySize = sizeof(int) * n;
     int *intArray = malloc(arraySize);
     free(intArray);
 
