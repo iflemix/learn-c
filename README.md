@@ -10,6 +10,7 @@ Enjoy!
 
 # Путеводитель
 ## Основы
+Тут лежит основная часть синтаксиса языка и различные пояснения
 * [Hello World!](https://github.com/iflemix/learn-c/blob/main/hello.c)
 * [Типы данных](https://github.com/iflemix/learn-c/blob/main/data_types.c)
 * [Циклы](https://github.com/iflemix/learn-c/blob/main/cycles.c)
@@ -22,6 +23,7 @@ Enjoy!
 * [Динамическая память](https://github.com/iflemix/learn-c/blob/main/memory.c)
 
 ## Стандартная библиотека
+Тут лежат мелкие и интересные штуки из стандартной библиотеки
 * [stdio](https://github.com/iflemix/learn-c/blob/main/stdio.c)
 
 ## Алгоритмы
