@@ -33,7 +33,7 @@ int main() {
     int *callocCharExample = calloc(5, sizeof(char));
     free(callocCharExample);
 
-    // Выделяем память для массива чисел для n элементов
+    // Выделяем память для массива чисел из n элементов
     int n = 5;
     int arraySize = sizeof(int) * n;
     int *intArray = malloc(arraySize);
