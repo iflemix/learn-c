@@ -1,10 +1,12 @@
 #include <stdio.h>
 
 int main(void) {
+    // Цикл for (ВСЁ ДЛЯ ТЕБЯ РАССВЕТЫ И ТУМАНЫ ДЛЯ ТЕБЯ ЦВЕТОЧНЫЕ ПОЛЯНЫ ДЛЯЯЯЯЯЯЯЯ ТЕБЯЯЯЯЯ)
     for (int i = 0; i < 5; i++) {
         printf("Step: %d\n", i);
     }
 
+    // Цикл while (да пока пока..))
     int a = 7;
     while (a != 0) {
         a--;
