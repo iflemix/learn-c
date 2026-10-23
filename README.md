@@ -21,6 +21,7 @@ Enjoy!
 * [Структуры](https://github.com/iflemix/learn-c/blob/main/structures.c)
 * [Перечисления](https://github.com/iflemix/learn-c/blob/main/enums.c)
 * [Динамическая память](https://github.com/iflemix/learn-c/blob/main/memory.c)
+* [Файлы и файловые потоки](https://github.com/iflemix/learn-c/blob/main/files.c)
 
 ## Стандартная библиотека
 Тут лежат мелкие и интересные штуки из стандартной библиотеки
