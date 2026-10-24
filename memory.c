@@ -1,5 +1,6 @@
 #include <stddef.h>
 #include <stdlib.h>
+#include <string.h>
 
 int main() {
     /*
@@ -32,6 +33,12 @@ int main() {
     // Выделим память для 5-ти элементов типа char
     int *callocCharExample = calloc(5, sizeof(char));
     free(callocCharExample);
+
+    // Также можно инициализировать память любыми начальными значениями через функцию memset
+    // memset принимает аргументы (блок выделенной памяти, значение для инициализации, размер выделенной памяти)
+    // Выделим память для одного символа char и инициализируем его нулём
+    char *charInHeap = malloc(sizeof(char));
+    memset(charInHeap, 0, sizeof(char)); // Один байт выделенный для char заполнится нулём
 
     // Выделяем память для массива чисел из n элементов
     int n = 5;
