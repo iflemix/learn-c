@@ -24,6 +24,7 @@ Enjoy!
 * [Динамическая память](https://github.com/iflemix/learn-c/blob/main/memory.c)
 * [Файлы и файловые потоки](https://github.com/iflemix/learn-c/blob/main/files.c)
 * [Препроцессор](https://github.com/iflemix/learn-c/blob/main/preprocessor.c)
+* [Битовые операции](https://github.com/iflemix/learn-c/blob/main/bitwise.c)
 
 ## Стандартная библиотека
 Тут лежат мелкие и интересные штуки из стандартной библиотеки
