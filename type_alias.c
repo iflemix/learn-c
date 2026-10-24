@@ -13,4 +13,6 @@ typedef struct {
 int main() {
     MyInt number = 5;
     PersonStruct human;
+
+    return 0;
 }
