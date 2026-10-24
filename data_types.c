@@ -2,11 +2,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-// typedef позволяет определить алиас для уже существующего типа
-typedef int MyIntNumber;
-// Используем созданный алиас
-MyIntNumber myNumber = 5;
-
 // void является 'пустым' типом данных без значения
 int main(void) {
     // Символьные
