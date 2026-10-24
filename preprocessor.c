@@ -30,4 +30,6 @@ int main() {
     // Используем макрос PRINT_TEXT с аргументом
     char text[] = "hi!";
     PRINT_TEXT(text);
+
+    return 0;
 }
