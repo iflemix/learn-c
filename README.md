@@ -28,7 +28,7 @@ Enjoy!
 
 ## Стандартная библиотека
 Тут лежат мелкие и интересные штуки из стандартной библиотеки
-* [stdio](https://github.com/iflemix/learn-c/blob/main/stdio.c)
+* [stdio](https://github.com/iflemix/learn-c/blob/main/libc/stdio.c)
 
 ## Алгоритмы
 * TODO
